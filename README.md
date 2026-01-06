@@ -7,6 +7,6 @@ A semester project for COMP-105L that manages library books, members and borrowi
 Ms Access, Ms Excel, HTML, CSS, GitHub
 
 ## Team
-Mahad Amjad
-Adeel Ahmed
-Muhammad Abdullah
+- Mahad Amjad
+- Adeel Ahmed
+- Muhammad Abdullah
